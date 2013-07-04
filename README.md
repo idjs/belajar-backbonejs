@@ -5,8 +5,8 @@ Pengenalan dan dasar penggunaan Backbone.js -- Maintained by Tian Permana
 
 Daftar Isi:
 
++ Pengenalan Backbone.js
 + Pengenalan Pattern MVC
-+ Kapan menggunakan Backbone.js
 + Model
 + Collection
 + View
